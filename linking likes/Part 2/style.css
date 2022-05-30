@@ -1,0 +1,78 @@
+
+* {
+    font-family: cursive;
+}
+.all {
+    width: 50%;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+.left {
+    height: 30%;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+}
+.upper {
+    width: 80%;
+    margin: auto;
+}
+.lefft {
+    text-align: center;
+    width: 40%;
+    border: 5px black solid;
+}
+.topbar {
+    height: 100%;
+    width: 100%;
+    margin-top: -20px;
+    background-color: black;
+    color: aliceblue;
+}
+
+.help {
+    margin-top: 10px;
+    height: 30%;
+    width: 100%;
+    border: 5px solid black;
+}
+
+.upper h2 {
+    text-align: center;
+}
+
+.down {
+    text-align: center;
+}
+
+
+.up {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.up h3 {
+    font-size: x-large;
+}
+
+.like {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.up button {
+    height: 40%;
+    width: 40%;
+    background-color: #FFD966;
+    box-shadow: 4px 4px black;
+}
+
+.down p {
+    font-size: x-large;
+}
